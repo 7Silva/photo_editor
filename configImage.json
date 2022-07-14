@@ -1,17 +1,19 @@
 {
     "texts": [
         {
-            "text": "string",
-            "className": "string",
+            "y": "string | number",
             "x": "string | number",
-            "y": "string | number"
+            "className": "string",
+            "text": "string"
         }
     ],
     "options": {
         "style": "string",
+        "option": "${option}",
         "outImage": "string",
+        "imageType": "string",
         "imagePath": "string",
-        "width": "string | number",
-        "height": "string | number"
+        "width": number,
+        "height": number
     }
 }
