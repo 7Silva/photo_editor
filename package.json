@@ -3,6 +3,10 @@
   "version": "0.1.0_alpha",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
   "author": {
     "name": "Daniel T. Silva",
     "email": "danielsilva_pessoal@outlook.com"
