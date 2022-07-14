@@ -4,9 +4,9 @@ A simple script to edit photos in an automated way.
 
 ## Features
 
- - [x] Add text in image;
- - [ ] Add filter in image;
- - [ ] Create image with text;
+ - [x] Add text in image
+ - [ ] Add filter in image
+ - [ ] Create image with text
 
 ## Dependencies
 - Chalk;
