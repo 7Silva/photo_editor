@@ -94,5 +94,3 @@ export function prompt() {
         console.log(configFile)
     };
 }
-
-prompt();
