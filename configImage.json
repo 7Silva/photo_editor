@@ -1,0 +1,17 @@
+{
+    "texts": [
+        {
+            "text": "string",
+            "className": "string",
+            "x": "string | number",
+            "y": "string | number"
+        }
+    ],
+    "options": {
+        "style": "string",
+        "outImage": "string",
+        "imagePath": "string",
+        "width": "string | number",
+        "height": "string | number"
+    }
+}
