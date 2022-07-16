@@ -19,8 +19,8 @@ A simple script to edit photos in an automated way.
 
 ## Running
 1. Run `yarn or npm install`;
-2. Run `yarn build or npm start build`;
-3. Run `yarn start or npm start`;
+2. Run `yarn build or npm run build`;
+3. Run `yarn start or npm run`;
 
 ## License
 
